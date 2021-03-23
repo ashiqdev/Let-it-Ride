@@ -24,7 +24,7 @@ A platform where you can share/take ride
 
 ## 🚀 Getting started
 
-This project is deployed at https://ph-assignment-09.web.app/
+This project is deployed at https://let-it-ride-89e12.web.app/
 
 Guide for local deployment -
 

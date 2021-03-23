@@ -1,0 +1,134 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "type": "car",
+      "location1": "mirpur",
+      "location2": "dhanmondi",
+      "capacity": "4",
+      "fare": "67",
+      "image": "https://i.postimg.cc/DwzX7DLQ/car.png"
+    },
+    {
+      "id": 2,
+      "type": "car",
+      "location1": "dhanmondi",
+      "location2": "gulistan",
+      "capacity": "3",
+      "fare": "69",
+      "image": "https://i.postimg.cc/DwzX7DLQ/car.png"
+    },
+    {
+      "id": 3,
+      "type": "car",
+      "location1": "gulistan",
+      "location2": "mirpur",
+      "capacity": "8",
+      "fare": "182",
+      "image": "https://i.postimg.cc/DwzX7DLQ/car.png"
+    },
+  
+    {
+      "id": 5,
+      "type": "bus",
+      "location1": "mirpur",
+      "location2": "dhanmondi",
+      "capacity": "25",
+      "fare": "20",
+      "image": "https://i.postimg.cc/nc2mbZjc/bus.png"
+    },
+    {
+      "id": 6,
+      "type": "bus",
+      "location1": "dhanmondi",
+      "location2": "gulistan",
+      "capacity": "81",
+      "fare": "50",
+      "image": "https://i.postimg.cc/nc2mbZjc/bus.png"
+    },
+    {
+      "id": 7,
+      "type": "bus",
+      "location1": "gulistan",
+      "location2": "mirpur",
+      "capacity": "93",
+      "fare": "59",
+      "image": "https://i.postimg.cc/nc2mbZjc/bus.png"
+    },
+    {
+      "id": 9,
+      "type": "bike",
+      "location1": "mirpur",
+      "location2": "dhanmondi",
+      "capacity": "1",
+      "fare": "190",
+      "image": "https://i.postimg.cc/rFM4PzpP/bije.png"
+    },
+    {
+      "id": 10,
+      "type": "bike",
+      "location1": "dhanmondi",
+      "location2": "gulistan",
+      "capacity": "3",
+      "fare": "340",
+      "image": "https://i.postimg.cc/rFM4PzpP/bije.png"
+    },
+    {
+      "id": 11,
+      "type": "bike",
+      "location1": "gulistan",
+      "location2": "mirpur",
+      "capacity": "2",
+      "fare": "180",
+      "image": "https://i.postimg.cc/rFM4PzpP/bije.png"
+    },
+    {
+      "id": 13,
+      "type": "train",
+      "location1": "mirpur",
+      "location2": "dhanmondi",
+      "capacity": "120",
+      "fare": "820",
+      "image": "https://i.postimg.cc/Z5DyncxG/train.png"
+    },
+    {
+      "id": 14,
+      "type": "train",
+      "location1": "dhanmondi",
+      "location2": "gulistan",
+      "capacity": "190",
+      "fare": "220",
+      "image": "https://i.postimg.cc/Z5DyncxG/train.png"
+    },
+    {
+      "id": 15,
+      "type": "train",
+      "location1": "gulistan",
+      "location2": "mirpur",
+      "capacity": "209",
+      "fare": "111",
+      "image": "https://i.postimg.cc/Z5DyncxG/train.png"
+    }
+  ],
+
+  "categories": [
+    {
+      "type": "bike",
+      "image": "https://i.postimg.cc/rFM4PzpP/bije.png"
+    },
+    {
+      "type": "car",
+      "image": "https://i.postimg.cc/DwzX7DLQ/car.png"
+    },
+
+    {
+      "type": "bus",
+      "image": "https://i.postimg.cc/nc2mbZjc/bus.png"
+    },
+
+    {
+      "type": "train",
+      "image": "https://i.postimg.cc/Z5DyncxG/train.png"
+    }
+  ]
+}

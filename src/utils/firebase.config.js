@@ -1,14 +1,24 @@
 import firebase from 'firebase/app';
 import 'firebase/auth';
 
+const {
+  REACT_APP_apiKey,
+  REACT_APP_authDomain,
+  REACT_APP_projectId,
+  REACT_APP_storageBucket,
+  REACT_APP_messagingSenderId,
+  REACT_APP_appId,
+} = process.env;
+
 const firebaseConfig = {
-  apiKey: 'AIzaSyB6YkQR9o_hpJtWjZk7YG08HpRpNtGqiKA',
-  authDomain: 'ph-assignment-09.firebaseapp.com',
-  projectId: 'ph-assignment-09',
-  storageBucket: 'ph-assignment-09.appspot.com',
-  messagingSenderId: '921854440193',
-  appId: '1:921854440193:web:c816b45a37c5f3444b2100',
+  apiKey: REACT_APP_apiKey,
+  authDomain: REACT_APP_authDomain,
+  projectId: REACT_APP_projectId,
+  storageBucket: REACT_APP_storageBucket,
+  messagingSenderId: REACT_APP_messagingSenderId,
+  appId: REACT_APP_appId,
 };
+
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
 
